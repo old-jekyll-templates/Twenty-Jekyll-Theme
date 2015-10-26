@@ -36,7 +36,7 @@
 	}
 
 	a {
-		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+		-moz-transition: color 0	qqqqq.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
@@ -204,7 +204,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #be4958;
 		}
 
 	input[type="text"],
@@ -349,12 +349,12 @@
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
+			.icon.circle.fa-linkedin {
 				background: #da83ae;
 				color: white;
 			}
 
-				.icon.circle.fa-dribbble:hover {
+				.icon.circle.fa-linkedin:hover {
 					background: #df93b8;
 				}
 
@@ -531,8 +531,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #be4958;
+			border-color: #be4958;
 			color: white !important;
 		}
 
@@ -572,7 +572,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #be4958;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -587,7 +587,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #83d3c9 !important;
+				color: #be4958 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -786,7 +786,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #be4958;
 				color: white;
 			}
 
