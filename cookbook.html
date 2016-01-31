@@ -11,7 +11,7 @@ layout: default
         <ul class="posts">
           {% for post in site.posts %}
             <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
-              <h2><a href="{{ page.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
+              <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
                 {{ post.excerpt }}
                 <section class="special">
                     <ul class="buttons">
