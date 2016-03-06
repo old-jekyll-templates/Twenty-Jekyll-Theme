@@ -9,7 +9,7 @@ categories: Snacks
 
 **Cooking time**:40 minutes
 
-####Ingredients
+### Ingredients
 
 * 500g beetroot (approx 2 medium beetroots)
 * 3 tablespoons of unhulled tahini
@@ -21,7 +21,7 @@ categories: Snacks
 * 1/2 teaspoon salt
 
 
-####Method
+### Method
 
 Preheat oven to 200 deg.C.
 Wrap the whole beetroots in foil and roast in the oven for ~30-40 minutes, until tender. When cool enough to handle peel and roughly chop.
@@ -30,7 +30,7 @@ Place the chopped beetroot in a food processor (or blender) with all ingredients
 
 Store in the fridge for ~5 days. 
 
-####Notes
+### Notes
 This was adapted from a Pete Evans recipe in the book <a href="http://peteevans.com/books/healthy-every-day/">Healthy Every Day</a>
 
 
