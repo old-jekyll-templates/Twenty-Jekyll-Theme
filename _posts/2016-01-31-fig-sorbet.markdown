@@ -4,7 +4,7 @@ title:  "Decedant fig sorbet"
 date:   2016-01-31
 categories: Desserts
 ---
-<span class="image featured"><img src="/images/pic01.jpg" alt=""></span>
+
 My fig tree is laden with fruit at the moment so I've been experimenting with fig sorbet recipes. Here's what I've come up with so far. 
 
 Preperation time: 
