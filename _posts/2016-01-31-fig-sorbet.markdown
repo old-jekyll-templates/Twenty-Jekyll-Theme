@@ -7,10 +7,6 @@ categories: Desserts
 
 My fig tree is laden with fruit at the moment so I've been experimenting with fig sorbet recipes. Here's what I've come up with so far. 
 
-Preperation time: 
-
-Cooking time: 
-
 ### Ingredients
 
 * ~500 grams of ripe figs
