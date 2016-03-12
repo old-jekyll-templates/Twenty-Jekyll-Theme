@@ -1,6 +1,7 @@
 To update and serve type:
 
-bundle exec jekyll serve
+jekyll build
+jekyll serve
 
 
 This site was adapted from the Twenty theme by HTML5 UP
