@@ -24,7 +24,7 @@ I really love making a big batch of food on Sunday's to help me get through the 
 * 2 tablespoons of tomato paste
 * 2 tablespoons red wine vinegar
 * 6 fresh bay leaves (or dried if fresh unavailable)
-* 2 beef stock cube
+* 600ml beef stock (or 1 beef stock cube)
 * sea salt
 * freshly ground black pepper
 
@@ -37,7 +37,7 @@ I really love making a big batch of food on Sunday's to help me get through the 
 4. Add the bacon, rosemary, garlic and veg, then cook with the lid ajar for 10 to 15 minutes, or until softened and just turning golden, stirring occasionally.
 5. Stir in the mince, turn the heat up to high and cook for 5 to 10 minutes, or until browned all over,stirring and breaking it up with a spoon as you go.
 6. Add the tomatoes, tomato paste, vinegar and bay leaves.
-7. Crumble in the stock cube and pour in 400ml boiling water.
+7. Add beef stock (or crumble in the stock cube and pour in 600ml of boiling water.
 8. Stir well, turn the heat up to high and bring to the boil.
 9. Season with pepper, reduce to a low heat, then cover and simmer for around 1 hour, stirring occasionally.
 10. Remove the lid and continue cooking for 15 to 20 minutes, or until thickened and reduced.
