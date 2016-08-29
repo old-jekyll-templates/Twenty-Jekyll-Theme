@@ -1,12 +1,47 @@
-# Site settings
-title: Sam's Kitchen
-email: sambuckberry@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of Sam Buckberry's recipes.
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://sambuckberry.me" # the base hostname & protocol for your site
-#twitter_username: sambuckberry
-#github_username:  sambuckberry
+# Built with Jekyll 3.2.0
 
-# Build settings
+# Setup
+title:               Sam's Kitchen
+tagline:             'Cooking from scratch'
+description:         'A collection of family recipes'
+url:                 'http://samskitchen.me'
+#baseurl:             '/'
+
+# About/contact
+author:
+  name:              Sam Buckberry
+#  url:               https://twitter.com/elotroalex
+  email:             sambuckberry@gmail.com
+
+# Permalinks
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
 markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Custom vars
+version:             0.0.6
+
+# Exclusions from the final site
+exclude: [optional, vendor]
+
+
