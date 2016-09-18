@@ -9,7 +9,7 @@ categories: Thai
 
 * 400 ml Ayam coconut cream
 * 400 g thinly sliced chicken thigh fillet
-* 1-2  tablespoons of Mae Ploy green curry paste (adjust to taste) 
+* 1-2 tablespoons of Mae Ploy green curry paste (adjust to taste) 
 * 2 handfuls of small Thai eggplants or substitute with 1 sliced zucchini
 * 1 Kaffir lime leaf
 * 2 tablespoons of fish sauce
@@ -25,7 +25,7 @@ categories: Thai
 5. Pour the other half of the coconut cream into the wok and bring to the boil.
 6. Add the kaffir lime leaf and eggplant (or zucchini).
 7. Cook for 2-3 minutes until chicken is cooked through and vegetables are cooked, but not too soft.
-8. Remove from head and immediately stir through the basil leaves.
+8. Remove from heat and immediately stir through the basil leaves.
 9. Garnish with a few fresh basil leaves (and chilli if you like).
 10. Serve with Jasmine rice.
 
