@@ -2,7 +2,8 @@
 layout: post
 title:  "Kylie's Lentil Salad"
 date:   2016-08-28
-categories: Salads
+resource: true
+categories: Sides
 ---
 
 My wife Kylie is the salad queen in our house, and this is one of her specialties. This salad never lasts long at summer BBQ's with friends and family dinners, with people always looking for more.

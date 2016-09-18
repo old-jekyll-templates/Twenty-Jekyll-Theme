@@ -9,7 +9,7 @@ title: "Sam's Kitchen"
 
 <p>A personal collection of recipes.</p>
 </div>
--->
+
 <hr>
 
 <div class="toc">
@@ -26,23 +26,23 @@ title: "Sam's Kitchen"
   </ul>  
 
 </div>
-
-
-
+-->
 <div class="toc">
-  <h2>Sample texts</h2>
+  <h2>Recipes</h2>
   <ul class="post">
- 
-  {% for item in categories do %}
-      <li class="post-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>  
-</div>
-
-
+  {% for cat in site.category-list %}
+  {{ cat }}
+  <ul>
+    {% for page in site.texts %}
+      {% if page.resource == true %}
+        {% for pc in page.categories %}
+          {% if pc == cat %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}   <!-- cat-match-p -->
+        {% endfor %}  <!-- page-category -->
+      {% endif %}   <!-- resource-p -->
+    {% endfor %}  <!-- page -->
+  </ul>
+{% endfor %}  <!-- cat -->
 
 

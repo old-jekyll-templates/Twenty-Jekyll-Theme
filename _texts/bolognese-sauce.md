@@ -2,7 +2,7 @@
 layout: post
 title:  "Big batch bolognese sauce"
 date:   2016-03-12
-categories: Mains
+categories: Meals
 ---
 I really love making a big batch of food on Sunday's to help me get through the week without too much cooking. This recipe is one if those Sunday favorites and should provide enough for 4-6 meals with enough left over to put another 5+ serves in the freezer. 
 

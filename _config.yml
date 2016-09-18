@@ -44,4 +44,6 @@ version:             0.0.6
 # Exclusions from the final site
 exclude: [optional, vendor]
 
+# Categories
+category-list: [Meals, Sides, Desserts, Snacks, Basics]
 

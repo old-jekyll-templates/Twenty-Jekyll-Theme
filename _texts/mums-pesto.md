@@ -2,6 +2,7 @@
 layout: post
 title:  "Mum's pesto"
 date:   2016-07-06
+resource: true
 categories: Basics
 ---
 

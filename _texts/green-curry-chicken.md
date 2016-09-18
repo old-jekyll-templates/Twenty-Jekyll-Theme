@@ -2,7 +2,8 @@
 layout: post
 title:  "Green Chicken Curry"
 date:   2016-07-06
-categories: Thai
+resource: true
+categories: Meals
 ---
 
 ### Ingredients

@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Beetroot Hummus"
-date:   2016-02-08
-categories: Snacks
+date:   2016-02-15
+resource: true
+categories: Basics
 ---
 
 **Preparation time**:10 minutes

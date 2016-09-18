@@ -2,7 +2,8 @@
 layout: post
 title:  "Dark Sourdough Rye"
 date:   2016-06-11
-categories: Bread
+resource: true
+categories: Basics
 ---
 
 ### Ingredients

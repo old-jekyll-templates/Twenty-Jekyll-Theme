@@ -2,8 +2,11 @@
 layout: post
 title:  "Sauteed broccolini"
 date:   2016-09-17
+resource: true
 categories: Sides
 ---
+
+A simple way to prepare broccolini or beans, and great with a Sunday roast chicken.
 
 ### Ingredients
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Decedant fig sorbet"
 date:   2016-01-31
+resource: true
 categories: Desserts
 ---
 
