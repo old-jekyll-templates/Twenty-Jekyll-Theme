@@ -19,7 +19,7 @@ This is one of my wife Kylie's favourite dishes. We often have a few serves of t
 
 * 200g buckwheat
 * 2 tablespoons of coconut or olive oil
-* 4 lamb shanks (~1.8kg) or lamb pieces
+* 4 lamb shanks (~1.8kg) or lamb pieces (see variations)
 * 1 large brown onion, chopped
 * 2 sticks of celery, chopped
 * 6 cloves of garlic, finely chopped
