@@ -29,3 +29,20 @@ title: "Sam's Kitchen"
 
 
 
+<div class="toc">
+  <h2>Sample texts</h2>
+  <ul class="post">
+ 
+  {% for item in categories do %}
+      <li class="post-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>  
+</div>
+
+
+
+
