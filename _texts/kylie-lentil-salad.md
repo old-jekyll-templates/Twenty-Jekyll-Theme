@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kylie's Lentil Salad"
+title:  "Kylie's lentil salad"
 date:   2016-08-28
 resource: true
 categories: Sides

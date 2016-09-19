@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Green Chicken Curry"
+title:  "Thai green chicken curry"
 date:   2016-07-06
 resource: true
 categories: Meals

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beetroot Hummus"
+title:  "Beetroot hummus"
 date:   2016-02-15
 resource: true
 categories: Basics
