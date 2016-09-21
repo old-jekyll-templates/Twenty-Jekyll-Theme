@@ -9,7 +9,7 @@ categories: Desserts
 
 You may like eating ice cream, but I doubt you like it more than me. When I was growing up, on the day my mum would do the grocery shopping I would rush home from school to eat all the ice-cream so I wouldn't have to share any with my sister. I just had to have it all. Vanilla has always been my favorite, and I think this recipe produces an amazing example of this classic dessert. 
 
-###Ingredients
+### Ingredients
 * 5 vanilla pods, halved length-ways
 * 360 ml milk
 * 175 grams caster sugar
