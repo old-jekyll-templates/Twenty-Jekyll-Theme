@@ -4,6 +4,7 @@ title:  "The best vanilla ice-cream"
 date:   2016-09-21
 resource: true
 categories: Desserts
+tags: [gluten-free]
 ---
 
 
