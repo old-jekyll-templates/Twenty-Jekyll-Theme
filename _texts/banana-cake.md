@@ -29,4 +29,6 @@ This banana cake recipe is adapted from a recipe from the Sra Bua restaurant in 
 4. Line a cake tin with non-stick baking paper and spoon in the mixture.
 5. Bake for ~20 minutes and cool on a rack.
 
+Serve with the [salted coconut ice-cream]({{ site.url }}/texts/coconut-ice-cream/) and caramel sauce.
+
 *The main challenge is achieving a cake that will not collapse in the centre after cooling*
