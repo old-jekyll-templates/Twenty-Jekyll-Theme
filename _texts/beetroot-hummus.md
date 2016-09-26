@@ -4,6 +4,7 @@ title:  "Beetroot hummus"
 date:   2016-02-15
 resource: true
 categories: Basics
+tags: [Gluten-free]
 ---
 
 **Preparation time**:10 minutes

@@ -4,7 +4,7 @@ title:  "Salted coconut ice-cream"
 date:   2016-09-21
 resource: true
 categories: Desserts
-tags: [gluten-free,dairy-free]
+tags: [Gluten-free,Dairy-free]
 ---
 
 The ultimate dairy-free ice cream. Enough said.

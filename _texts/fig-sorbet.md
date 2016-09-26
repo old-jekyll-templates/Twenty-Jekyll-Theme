@@ -4,6 +4,7 @@ title:  "Decedant fig sorbet"
 date:   2016-01-31
 resource: true
 categories: Desserts
+tags: [Gluten-free, Dairy-free]
 ---
 
 My fig tree is laden with fruit at the moment so I've been experimenting with fig sorbet recipes. Here's what I've come up with so far. 

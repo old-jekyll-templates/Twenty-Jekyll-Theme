@@ -4,6 +4,7 @@ title:  "Thai green chicken curry"
 date:   2016-07-06
 resource: true
 categories: Meals
+tags: [Thai,Gluten-free,Dairy-free]
 ---
 
 ### Ingredients

@@ -4,6 +4,7 @@ title:  "Chunky harira"
 date:   2016-09-17
 resource: true
 categories: Meals
+tags: [Gluten-free]
 ---
 
 This is one of my wife Kylie's favourite dishes. We often have a few serves of this dish in the freezer as back-up meals for lazy nights. Although there are a lot of ingredients, this is a pretty simple recipe, and it's super nutritious.

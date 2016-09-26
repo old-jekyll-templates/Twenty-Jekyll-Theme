@@ -4,7 +4,7 @@ title:  "Thai banana cake"
 date:   2016-09-21
 resource: true
 categories: Desserts
-tags: [thai,gluten-free]
+tags: [Thai,Gluten-free]
 ---
 
 This banana cake recipe is adapted from a recipe from the Sra Bua restaurant in the Siam Kempinski Hotel in Bangkok. The flour-less version can be challenging. Feel free to substitute the almond meal for flour, or experiment with different ratios of the two.

@@ -4,6 +4,7 @@ title:  "Mum's pesto"
 date:   2016-07-06
 resource: true
 categories: Basics
+tags: [gluten-free, dairy-free]
 ---
 
 ### Ingredients

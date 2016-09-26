@@ -4,6 +4,7 @@ title:  "Dark sourdough rye"
 date:   2016-06-11
 resource: true
 categories: Basics
+tags: [dairy-free]
 ---
 
 ### Ingredients

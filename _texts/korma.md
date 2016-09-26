@@ -4,7 +4,7 @@ title:  "Lamb korma"
 date:   2016-03-12
 resource: true
 categories: Meals
-tags: [indian,gluten-free,slow-cooker]
+tags: [Indian,Gluten-free,Slow-cooker]
 ---
 
 Lamb korma is one of my favorite Indian curries. There is a lot of variety in korma recipes out there, and this is just another one. I have experimented a lot with this dish and think this recipe strikes a nice balance between simplicity in preparation and complexity in flavour. 
