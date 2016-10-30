@@ -15,7 +15,7 @@ The classic Australian biscuits.
 * 1 cup raw sugar
 * 3/4 cup dessicated coconut
 * 1/2 cup butter (~120g)
-* 1 tablespoon golden syrup
+* 2 tablespoons golden syrup
 * 1 teaspoon bicarbonate soda
 * 2 tablespoon boiling water 
 
