@@ -25,6 +25,7 @@ Lamb korma is one of my favorite Indian curries. There is a lot of variety in ko
 * 1 brown onion, finely chopped
 * 2 fresh green chillies 
 * 250 ml lamb or beef stock
+* 250 ml coconut milk
 * 80 grams cashews, smashed in a mortar and pestle
 * 1 cinnamon stick
 * 1/2 teaspoon ground turmeric
