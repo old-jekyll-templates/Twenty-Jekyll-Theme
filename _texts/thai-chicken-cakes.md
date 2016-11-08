@@ -16,9 +16,9 @@ This is a super fast and easy meal to prepare and works well for summer lunches.
 
 **Cooking time: 20 minutes** 
 
-### Ingredients
+###Ingredients
 
-####For the chicken cakes 
+###For the chicken cakes 
 * 1 kg chicken thighs, roughly chopped
 * 4 garlic cloves
 * 2 long red or green chillies, thinly sliced (optional)
@@ -28,7 +28,7 @@ This is a super fast and easy meal to prepare and works well for summer lunches.
 * 6 tablespoons coconut cream
 * 2 teaspoons grated ginger
 
-####To serve 
+###To serve 
 * Iceberg lettuce leaves, as cups
 * 1 avocado
 * 1 cucumber
