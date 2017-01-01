@@ -7,7 +7,7 @@ categories: Meals
 tags: [Gluten-free,Dairy-free,Slow-cooker]
 ---
 
-I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with the coleslaw and [ailoi]({{ site.url }}/texts/ailoi/) recipes included here on some fresh tortilla flat breads.  
+I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with the coleslaw included with some [ailoi]({{ site.url }}/texts/ailoi/) and served fresh tortilla flat breads.  
 
 **Preparation time: 30 minutes** 
 
