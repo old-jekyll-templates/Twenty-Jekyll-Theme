@@ -44,5 +44,4 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 
 #### Coleslaw
 1. Finely slice the red cabbage and red onion and toss with the halved cherry tomatoes, diced jalapenos and corriander and squeeze 1/2 a lemon over the coleslaw mix. 
-
-Serve with a simple [ailoi]({{ site.url }}/texts/ailoi/).
+2. Serve with a simple [ailoi]({{ site.url }}/texts/ailoi/) and some fresh tortilla flat breads.
