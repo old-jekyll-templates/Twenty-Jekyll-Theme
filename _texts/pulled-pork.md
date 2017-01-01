@@ -7,7 +7,7 @@ categories: Meals
 tags: [Gluten-free,Dairy-free,Slow-cooker]
 ---
 
-I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with the coleslaw included with some [ailoi]({{ site.url }}/texts/ailoi/) and served fresh tortilla flat breads.  
+I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with coleslaw (recipe below) and  some [ailoi]({{ site.url }}/texts/ailoi/), and served fresh tortilla flat breads.  
 
 **Preparation time: 30 minutes** 
 
@@ -41,7 +41,7 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 1. Combine the ground spices and rub all over the pork shoulder, then crush and chop the garlic and and push into all the gaps in the pork.
 2. Place the pork shoulder into a slow cooker and top with orange juice and apple cider vinegar and slow cook for 10-12 hours, or until the meat can easily be forked apart. 
 3. Once cooked, remove the meat and pull apart with two forks and then tip some of the juice from the slow cooker bowl over the shredded meat to keep it moist. The remaining juice can be reduced into a sticky gravy-like sauce if you like. 
-4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through a good quality american style bbq sauce. 
+4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through an american style [BBQ sauce]({{ site.url }}/texts/bbq-sauce/). 
 
 #### Coleslaw
 1. Finely slice the red cabbage and red onion and toss with the halved cherry tomatoes, diced jalapenos and corriander and squeeze 1/2 a lemon over the coleslaw mix. 
