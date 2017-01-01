@@ -7,7 +7,7 @@ categories: Meals
 tags: [Gluten-free,Dairy-free,Slow-cooker]
 ---
 
-I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with the coleslaw and aioli recipes included here on some fresh tortilla flat breads.  
+I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many versions of this out there, but I think this one is a simple way to produce that mouth-watering fork-tender pork every time. For a delicious meal, throw the pulled pork together with the coleslaw and [ailoi]({{ site.url }}/texts/ailoi/) recipes included here on some fresh tortilla flat breads.  
 
 **Preparation time: 30 minutes** 
 
@@ -34,17 +34,6 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 * Handful of fresh corriander leaves, chopped
 * Juice of 1/2 lemon 
 
-#### Aioli
-* 1/2 small clove garlic, peeled
-* Sea salt
-* Freshly ground black pepper
-* 1 large free-range egg yolk
-* 1 teaspoon Dijon mustard
-* 285 ml extra virgin olive oil
-* 285 ml olive oil
-* Lemon juice, to taste
-
-
 ### Method
 
 #### Pulled pork
@@ -53,7 +42,7 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 3. Once cooked, remove the meat and pull apart with two forks and then tip some of the juice from the slow cooker bowl over the shredded meat to keep it moist. The remaining juice can be reduced into a sticky gravy-like sauce if you like. 
 4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through a good quality american style bbq sauce. 
 
-#### Coleslaw and ailoi
+#### Coleslaw
 1. Finely slice the red cabbage and red onion and toss with the halved cherry tomatoes, diced jalapenos and corriander and squeeze 1/2 a lemon over the coleslaw mix. 
-2. Smash up the garlic with 1 teaspoon of salt in a mortar and pestle. Place the egg yolk and mustard in a bowl and whisk together, then start to add your oils bit by bit. Once you’ve blended in a quarter of the oil, you can start to add the rest in larger amounts. When the mixture thickens, add lemon juice. When all the oil has been added, add the garlic. Season the ailoi to taste with salt, pepper and a bit more lemon juice, if needed.
 
+Serve with a simple [ailoi]({{ site.url }}/texts/ailoi/).
