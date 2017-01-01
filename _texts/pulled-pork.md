@@ -18,7 +18,7 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 #### Pulled pork
 * 2.5 kg pork shoulder
 * 1 teaspoon dried oregano
-* 2 cloves of garlic.  
+* 2 cloves garlic  
 * 1 teaspoon paprika
 * 1 teaspoon ground cumin
 * 1 teaspoon ground chilli 
@@ -48,7 +48,7 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 ### Method
 
 #### Pulled pork
-1. Crush and chop the garlic cloves and combine with the ground spices, then rub this mixture all over the pork shoulder.
+1. Combine the ground spices and rub all over the pork shoulder, then crush and chop the garlic and and push into all the gaps in the pork.
 2. Place the pork shoulder into a slow cooker and top with orange juice and apple cider vinegar and slow cook for 10-12 hours, or until the meat can easily be forked apart. 
 3. Once cooked, remove the meat and pull apart with two forks and then tip some of the juice from the slow cooker bowl over the shredded meat to keep it moist. The remaining juice can be reduced into a sticky gravy-like sauce if you like. 
 4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through a good quality american style bbq sauce. 
