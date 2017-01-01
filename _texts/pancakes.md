@@ -8,7 +8,7 @@ tags: [Vegetarian]
 ---
 
 
-My uncle Stu makes these pancakes for his family every sunday morning. It produces pancakes just how I like 'em. Nice and flat without the cake like texture
+My uncle Stu makes these pancakes for his family every sunday morning. It produces pancakes just how I like 'em. Nice and flat without the cake like texture.
 
 ### Ingredients
 * 250 grams flour
