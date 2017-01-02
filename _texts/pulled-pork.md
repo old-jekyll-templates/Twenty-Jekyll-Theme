@@ -32,7 +32,7 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 * 1 red onion
 * 1 punnet cherry tomatoes, halved
 * Finely diced jalapenos (as much as you can handle)
-* Handful of fresh corriander leaves, chopped
+* Handful of fresh coriander leaves, chopped
 * Juice of 1/2 lemon 
 
 ### Method
@@ -41,8 +41,8 @@ I got this pulled pork recipe is from my mate Johnny Z. No doubt there are many 
 1. Combine the ground spices and rub all over the pork shoulder, then crush and chop the garlic and and push into all the gaps in the pork.
 2. Place the pork shoulder into a slow cooker and top with orange juice and apple cider vinegar and slow cook for 10-12 hours, or until the meat can easily be forked apart. 
 3. Once cooked, remove the meat and pull apart with two forks and then tip some of the juice from the slow cooker bowl over the shredded meat to keep it moist. The remaining juice can be reduced into a sticky gravy-like sauce if you like. 
-4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through an american style [BBQ sauce]({{ site.url }}/texts/bbq-sauce/). 
+4. In a hot pan, brown as much of the pork as you will eat in a session on one side and stir through an American style [BBQ sauce]({{ site.url }}/texts/bbq-sauce/). 
 
 #### Coleslaw
-1. Finely slice the red cabbage and red onion and toss with the halved cherry tomatoes, diced jalapenos and corriander and squeeze 1/2 a lemon over the coleslaw mix. 
+1. Finely slice the red cabbage and red onion and toss with the halved cherry tomatoes, diced jalapenos and coriander and squeeze 1/2 a lemon over the coleslaw mix. 
 2. Serve with a simple [ailoi]({{ site.url }}/texts/ailoi/) and some fresh tortilla flat breads.

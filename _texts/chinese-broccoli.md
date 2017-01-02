@@ -7,7 +7,7 @@ categories: Sides
 tags: [gluten-free, dairy-free]
 ---
 
-A simple way to prepare chinese broccoli or other greans such as beans. I think this works much better than simply using oyster sauce.
+A simple way to prepare Chinese broccoli or other greens such as beans. I think this works much better than simply using oyster sauce.
 
 ### Ingredients
 
@@ -25,8 +25,8 @@ A simple way to prepare chinese broccoli or other greans such as beans. I think 
 
 ### Method
 
-1. Trim the ends of the Chinese broccoli, then steam for 2-3 minutes and ensure the croccoli still retains some crispness.
-2. Stack the Chinese broccoli together and cut into 10cm lengths and stack on top of each other.
+1. Trim the ends of the Chinese broccoli, then steam for 2-3 minutes and ensure the broccoli still retains some crispness.
+2. Stack the Chinese broccoli together and cut into 10 cm lengths and stack on top of each other.
 3. Combine water and corn flour in small saucepan and mix to dissolve. Then add remaining ingredients, bring the boil for 30 seconds to allow to thicken, then remove from stove.
 4. Strain the sauce to get a smooth consistency, drizzle over the Chinese broccoli and serve.
 
