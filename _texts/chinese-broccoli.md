@@ -16,7 +16,7 @@ A simple way to prepare chinese broccoli or other greans such as beans. I think 
 * 2 tablespoons water
 * 2 tablespoons oyster sauce
 * 1 tablespoon soy sauce
-* 1 tablespoon Chinese cooking wine (see notes)
+* 1 tablespoon Chinese cooking wine (or sake/sherry)
 * 1/2 teaspoon sesame oil
 * 1/2 tablespoon vegetable oil
 * 1/2 teaspoon sugar
