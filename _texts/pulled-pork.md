@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Johnny's Pulled Pork"
+title:  "Johnny's pulled pork"
 date:   2016-11-08
 resource: true
 categories: Meals
