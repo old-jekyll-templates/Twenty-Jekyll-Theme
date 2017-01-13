@@ -40,7 +40,7 @@ tags: [Thai,Gluten-free,Dairy-free]
 ### Method
 
 1. Soak the vermicelli noodles in hot water for ~5 minutes, then drain and set aside.
-2. Heat the BQQ or grill and season the beef well with salt and pepper then press the seasoning into the meat with the back of a spatula or your hand. 
+2. Heat the barbecue or grill and season the beef well with salt and pepper then press the seasoning into the meat with the back of a spatula or your hand. 
 3. Lightly oil the grill and cook the fillet for 4-5 minutes each side, then remove, set aside and rest.
 4. For the dressing, combine the ginger, coriander, garlic, chilli, vinegar, tamari, lemongrass, sesame oil in a bowl and mix well. 
 5. Pour half the dressing over the noodles, with half the herbs and gently toss. 
