@@ -20,8 +20,8 @@ This chickpea stew is great topped with sliced-up char-grilled chicken breast, o
 * 1 brown onion, finely chopped
 * 2 cloves garlic, smashed and chopped
 * 1/2 teaspoon smoked paprika
-* 1 jar char grilled capsicum (~200 grams) in olive oil, roughly sliced
-* 1 punnet of cherry tomatoes, sliced in half (or 1 tin tomatoes if out of season)
+* 1 jar char grilled capsicum (~400 grams) in olive oil, roughly sliced
+* 1 punnet of cherry tomatoes (~200 grams), sliced in half (or 1 tin tomatoes if out of season)
 * 1 tin chickpeas, drained and washed. 
 * Red wine vinegar
 * Salt
