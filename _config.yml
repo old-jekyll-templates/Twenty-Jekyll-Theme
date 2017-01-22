@@ -45,6 +45,6 @@ version:             0.0.6
 exclude: [optional, vendor]
 
 # Categories
-category-list: [Meals, Sides, Desserts, Snacks, Basics, Drinks]
-tag-list: [Thai, Indian, Gluten-free, Dairy-free, Italian, Slow-cooker]
+category-list: [Meals, Sides, Salads, Desserts, Snacks, Basics, Drinks]
+tag-list: [Thai, Indian, Gluten-free, Dairy-free, Italian, Slow-cooker, Vegetarian, Peruvian]
 
