@@ -7,7 +7,7 @@ categories: Meals
 tags: [Gluten-free]
 ---
 
-This is one of my wife Kylie's favourite dishes. We often have a few serves of this dish in the freezer as back-up meals for lazy nights. Although there are a lot of ingredients, this is a pretty simple recipe, and it's super nutritious.
+Although there are a lot of ingredients, this is a pretty simple recipe, and it's a super nutritious meal. I often keep a few serves of this dish in the freezer as back-up meals for lazy nights. 
 
 *Note that step 1 should be done the day before you cook*
 
