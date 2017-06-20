@@ -7,7 +7,7 @@ categories: Salads
 tags: [Gluten-free, Vegetarian]
 ---
 
-My wife Kylie is the salad queen in our house, and this is one of her specialties. This salad never lasts long at summer BBQ's with friends and family dinners, with people always looking for more.
+This salad never lasts long at summer BBQ's with friends and family dinners, with people always looking for more.
 
 Preparation time: ~20 mins  
 Cooking time: ~25 mins
