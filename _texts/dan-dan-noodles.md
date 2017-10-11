@@ -16,11 +16,11 @@ tags: [Asian,Chinese,Dairy-free,Beef]
 **Cooking time: 20 minutes** 
 
 ### Ingredients
-* 1 Beef stock cube
+* 1 beef stock cube
 * 250 grams minced beef
 * 1 tablespoon runny honey
 * 300 grams Hokkien noodles
-* 4 large handfulls of mixed green vegetables (Brocolini, bok choi, baby spinach, etc)
+* 4 large handfuls of mixed green vegetables (Brocolini, bok choi, baby spinach, etc)
 * 3 cloves garlic, finely chopped
 * 3 tablespoons dark soy sauce
 * 2 teaspoons freshly ground Szechuan pepper
@@ -30,9 +30,9 @@ tags: [Asian,Chinese,Dairy-free,Beef]
 
 ### Method
 
-1. Add the beef mince to a dry pan on a medium to high heat. Keep the minch moving around until in becomes golden brown and a little crunchy, which will take 10-15 minutes. Pour away any excess liquid and then add the honey and toss until all the meat is coated. 
+1. Add the beef mince to a dry pan on a medium to high heat. Keep the mince moving around until in becomes golden brown and a little crunchy, which will take 10-15 minutes. Pour away any excess liquid and then add the honey and toss until all the meat is coated. 
 
-2. While the meat is cookong, crumble the stock cube into a pan of water, bring to the boil, then add your noodles and cook to the packets instructions. 
+2. While the meat is cooking, crumble the stock cube into a pan of water, bring to the boil, then add your noodles and cook to the packets instructions. 
 
 3. Chop/shred your vegetables and add to the noodles and water when the noodles have a bout 1 minute left to cook to blanch them. Then drain the whole lot in a colander, and reserve about 1 cup of the liquid, then tip it all back into the hot pan with the reserved liquid.
 
