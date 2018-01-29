@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ailoi"
+title:  "Aioli"
 date:   2016-11-08
 resource: true
 categories: Basics
