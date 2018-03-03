@@ -16,7 +16,7 @@ This banana cake recipe is adapted from a recipe from the Sra Bua restaurant in 
 * 1/2 cup caster sugar
 * 1 1/4 tablespoons potato or banana starch
 * 1 tablespoon coconut flakes
-* 1 teaspoon baking flour
+* 1 teaspoon baking powder
 * 1 teaspoon Chinese five spice powder
 * 1 vanilla bean 
 * 2 egg whites
