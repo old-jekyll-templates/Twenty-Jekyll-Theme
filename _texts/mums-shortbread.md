@@ -22,3 +22,4 @@ The classic christmas time biscuits.
 5. Use a biscuit cutter appropriately sized cup to get biscuits of the desired size and shape.
 6. Bake in the oven until the biscuits just begin to become golden in color. Watch them very closely, this should take between 7-12 minutes. 
 
+![Shortbread][images/IMG7300]
