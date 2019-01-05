@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mum's shortbread"
-date:   2016-10-23
+date:   2019-01-05
 resource: true
 categories: Snacks
 tags: []
@@ -22,4 +22,4 @@ The classic christmas time biscuits.
 5. Use a biscuit cutter appropriately sized cup to get biscuits of the desired size and shape.
 6. Bake in the oven until the biscuits just begin to become golden in color. Watch them very closely, this should take between 7-12 minutes. 
 
-<span class="image featured"><img src="/images/IMG_7300.jpg)" alt=""></span>
+<img src="/images/IMG_7300.jpg" alt="Shortbread_1">
