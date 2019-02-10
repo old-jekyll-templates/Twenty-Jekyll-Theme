@@ -10,12 +10,12 @@ tags: [Gluten-free,Dairy-free]
 Makes ~1.25 litres
 
 
-1/2 Avocado
-1/2 Carrot
-1/2 cup blueberries
-1 cup frozen spinach
-2 cups chopped kale
-1 banana
-1 tablespoon flaxseed meal
-2 tablespoons hemp protein
-2 cups water
+* 1/2 Avocado
+* 1/2 Carrot
+* 1/2 cup blueberries
+* 1 cup frozen spinach
+* 2 cups chopped kale
+* 1 banana
+* 1 tablespoon flaxseed meal
+* 2 tablespoons hemp protein
+* 2 cups water
