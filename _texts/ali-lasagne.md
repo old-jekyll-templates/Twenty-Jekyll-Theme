@@ -28,7 +28,7 @@ Serves 6+
 * 700ml tomato passata 
 * 400g canned diced tomatoes 
 * 2 large handfuls basil leaves 
-* Béchamel sauce 
+### Béchamel sauce 
 * 50g unsalted butter 
 * 2 tbsp plain flour 
 * 600ml milk 
