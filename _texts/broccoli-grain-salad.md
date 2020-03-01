@@ -19,7 +19,7 @@ Serves 4
 * 2 tablespoons sunflower seeds
 * 2 tablespoons pepitas 
 * 2 tablespoons crushed walnuts
-* 5 spring onions, chopped
+* 2 spring onions, chopped
 * 2 tablespoons finely diced parsley
 * Juice of a lemon
 * 2 apple cider vinegar vinegar
