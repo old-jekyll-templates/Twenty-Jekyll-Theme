@@ -25,15 +25,13 @@ tags: [Gluten-free]
 
 ### Method
 
-Preheat oven to 200 deg.C.
-Wrap the whole beetroot's in foil and roast in the oven for ~30-40 minutes, until tender. When cool enough to handle peel and roughly chop.
+1. Preheat oven to 200 deg.C.
+2. Wrap the whole beetroot's in foil and roast in the oven for ~30-40 minutes, until tender. When cool enough to handle peel and roughly chop.
+3. Place the chopped beetroot in a food processor (or blender) with all ingredients and process until smooth. Check the seasoning and transfer to a bowl or containers. 
+4. Store in the fridge for ~5 days. 
 
-Place the chopped beetroot in a food processor (or blender) with all ingredients and process until smooth. Check the seasoning and transfer to a bowl or containers. 
 
-Store in the fridge for ~5 days. 
-
-### Notes
-This was adapted from a Pete Evans recipe in the book <a href="http://peteevans.com/books/healthy-every-day/">Healthy Every Day</a>
+_This was adapted from a Pete Evans recipe in the book <a href="http://peteevans.com/books/healthy-every-day/">Healthy Every Day</a>_
 
 
 
