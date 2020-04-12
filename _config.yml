@@ -7,6 +7,8 @@ description:         'A collection of family recipes'
 url:                 'http://samskitchen.me'
 #baseurl:             '/'
 
+theme: jekyll-theme-so-simple
+
 # About/contact
 author:
   name:              Sam Buckberry
