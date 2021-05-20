@@ -7,7 +7,7 @@ categories: Breakfast
 tags: [Vegetarian, Gluten-free]
 ---
 
-For me, this is the perfect breakfast, and I eat it every morning. I do experiment with different ingredients, but the recipe here is what I make most often. 
+For me, this is the perfect breakfast. I eat it every morning. I do experiment with different ingredients, but this recipe is what I make most often. 
 
 Serves one
 
