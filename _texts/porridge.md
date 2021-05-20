@@ -34,17 +34,18 @@ Serves one
 Tips:
 Soak steel cups overnight to speed up cooking time
 
-NUTRITION INFORMATION				
-Servings per package:	1			
-Serving size:	230	g		
-	Average	Average		
-	Quantity per	Quantity per		
-	Serving	100 g		
-Energy	4250	kJ	1850	kJ
-Protein	29.1	g	12.7	g
-Fat, total	51.4	g	22.3	g
-- saturated	4.6	g	2	g
-Carbohydrate	99.4	g	43.2	g
-- sugars	49.7	g	21.6	g
+|     NUTRITION INFORMATION |                |              |      |      |
+|---------------------------|----------------|--------------|------|------|
+| Servings per package:     | 1              |              |      |      |
+| Serving size:             | 230            | g            |      |      |
+|                           | Average        | Average      |      |      |
+|                           | Quantity   per | Quantity per |      |      |
+|                           | Serving        | 100 g        |      |      |
+| Energy                    | 4250           | kJ           | 1850 | kJ   |
+| Protein                   | 29.1           | g            | 12.7 | g    |
+| Fat, total                | 51.4           | g            | 22.3 | g    |
+| - saturated               | 4.6            | g            | 2    | g    |
+| Carbohydrate              | 99.4           | g            | 43.2 | g    |
+| - sugars                  | 49.7           | g            | 21.6 | g    |
 
 
