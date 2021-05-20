@@ -3,7 +3,7 @@
 # Setup
 title:               Sam's Kitchen
 tagline:             'Cooking from scratch'
-description:         'A collection of family recipes'
+description:         'A personal cookbook, with recipes from family and friends'
 url:                 'http://samskitchen.me'
 #baseurl:             '/'
 
@@ -11,9 +11,9 @@ theme: jekyll-theme-so-simple
 
 # About/contact
 author:
-  name:              Sam Buckberry
+ name:              Sam Buckberry
 #  url:               https://twitter.com/elotroalex
-  email:             sambuckberry@gmail.com
+ email:             sambuckberry@protonmail.com
 
 # Permalinks
 
@@ -47,6 +47,6 @@ version:             0.0.6
 exclude: [optional, vendor]
 
 # Categories
-category-list: [Meals, Sides, Salads, Desserts, Snacks, Basics, Drinks]
+category-list: [Breakfast, Meals, Sides, Salads, Desserts, Snacks, Basics, Drinks]
 tag-list: [Thai, Indian, Gluten-free, Dairy-free, Italian, Slow-cooker, Vegetarian, Peruvian]
 
