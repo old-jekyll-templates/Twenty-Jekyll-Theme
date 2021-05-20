@@ -27,9 +27,8 @@ Serves one
 ### Method
 1. Add 1½ cups of cold water to the steel cut oats in a small thick bottom saucepan and begin simmering over a low heat for 15-20 mins. Soak oats overnight to speed up this process. 
 2. Add walnuts, almonds, sunflower seeds, pepitas goji berries and hemp seeds to a spice grinder or small food processor and grind to a coarse powder. 
-3. Once oats reach the desired consistency, add the powder from step two, with bee pollen, chopped dates and cinnamon.  
-4. Pour enough of the pancake batter into the centre of the pan so it spreads to form a thin pancake of a few millimeters. 
-5. Stir through honey and adjust to desired sweetness.   
+3. Once oats reach the desired consistency, add the powder from step two, with bee pollen, chopped dates and cinnamon.   
+4. Stir through honey and adjust to desired sweetness.   
 
 Tips:
 Soak steel cups overnight to speed up cooking time
