@@ -28,6 +28,16 @@
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
 			}, 100);
+
+
+			// Set the correct header menu item to be active
+			var menuAnchors = $('#header ul li a');
+			menuAnchors.removeClass('active');
+			for (var i = 0; i < menuAnchors.length; i++) {
+				if (menuAnchors[i].href.endsWith(document.location.pathname)) {
+					$(menuAnchors[i]).addClass('active');
+				}
+			}
 		});
 
 	// Forms.
