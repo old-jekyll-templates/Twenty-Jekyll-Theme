@@ -3472,7 +3472,6 @@ input, select, textarea {
 
 			#sidebar + #wrapper {
 				margin-left: 0;
-				padding-top: 3.5em;
 			}
 
 		}
@@ -3809,7 +3808,8 @@ input, select, textarea {
 				overflow: hidden;
 				padding: 0;
 				text-align: center;
-				top: 90px;
+				top: 0;
+				position: sticky;
 				width: 100%;
 			}
 
