@@ -1,14 +1,52 @@
-# Site settings
-title: Twenty Blog
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Built with Jekyll 3.2.0
 
-# Build settings
+# Setup
+title:               Sam's Kitchen
+tagline:             'Cooking from scratch'
+description:         'A personal cookbook, with recipes from family and friends'
+url:                 'http://samskitchen.me'
+#baseurl:             '/'
+
+theme: jekyll-theme-so-simple
+
+# About/contact
+author:
+ name:              Sam Buckberry
+#  url:               https://twitter.com/elotroalex
+ email:             sambuckberry@protonmail.com
+
+# Permalinks
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
 markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Custom vars
+version:             0.0.6
+
+# Exclusions from the final site
+exclude: [optional, vendor]
+
+# Categories
+category-list: [Breakfast, Meals, Sides, Salads, Desserts, Snacks, Basics, Drinks]
+tag-list: [Thai, Indian, Gluten-free, Dairy-free, Italian, Slow-cooker, Vegetarian, Peruvian]
+

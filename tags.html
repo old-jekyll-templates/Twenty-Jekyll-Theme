@@ -1,0 +1,23 @@
+---
+layout: page
+title: Recipe tags
+---
+<div class="introduction">
+
+<div class="toc">
+  <ul class="post">
+  {% for tag in site.tag-list %}
+  {{ tag }}
+  <ul>
+    {% for page in site.texts %}
+      {% if page.resource == true %}
+        {% for pc in page.tags %}
+          {% if pc == tag %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}   <!-- cat-match-p -->
+        {% endfor %}  <!-- page-category -->
+      {% endif %}   <!-- resource-p -->
+    {% endfor %}  <!-- page -->
+  </ul>
+{% endfor %}  <!-- cat -->
+
